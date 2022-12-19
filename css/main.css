@@ -46,7 +46,7 @@ p {
 /****** Header Styles ******/
 
 .header {
-    background: url("/projects/jubilee-austen/img/full-background.png") no-repeat center, #F9EFEF;
+    background: url("/img/full-background.png") no-repeat center, #F9EFEF;
     background-size: cover;
     height: 800px;
 }
